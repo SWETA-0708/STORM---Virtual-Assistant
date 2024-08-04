@@ -26,7 +26,7 @@ STORM is a virtual assistant designed to respond to voice commands and perform v
 1. **Clone the Repository**
 
    ```bash
-   git clone 
+   git clone https://github.com/SWETA-0708/STORM---Virtual-Assistant.git
    ```
 
 2. **Navigate to the Project Directory**
